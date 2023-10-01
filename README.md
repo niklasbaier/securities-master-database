@@ -1,4 +1,4 @@
-# securities-master-database
+# Securities Master Database (SMD)
 
 This repository holds the code that was used to build up a securities master database from scratch, utilizing the Yahoo Finance and Alpaca Trade APIs.
 A detailed documentation & explanation of all parts of this repository can be read up [https://niklasbaier.github.io/me/building-up-a-securities-master-database/](here).
